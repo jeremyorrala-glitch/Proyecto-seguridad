@@ -1,0 +1,7 @@
+# Archivos de entorno local
+.vscode/
+*.log
+
+# Archivos temporales de XAMPP
+*.tmp
+Thumbs.db
