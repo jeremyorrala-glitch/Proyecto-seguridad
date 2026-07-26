@@ -19,7 +19,7 @@ buenas practicas de seguridad web.
 1. Copiar la carpeta del proyecto a `C:\xampp\htdocs\`
 2. Importar `sql/estructura.sql` en phpMyAdmin
 3. Iniciar Apache y MySQL desde el panel de XAMPP
-4. Abrir `http://localhost/proyecto-final-seguridad/login.php`
+4. Abrir `http://localhost/proyecto-seguridad/login.php`
 
 ## Autor
-Jeremy - UCSG
+Jeremy Orrala Yagual - UCACUE
